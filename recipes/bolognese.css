@@ -1,0 +1,30 @@
+body{
+    font-family: Georgia, 'Times New Roman', Times, sans-serif;
+}
+h1,
+h2{
+    color: rgb(255, 117, 49);
+    text-align: center;
+    background-color: rgba(255, 145, 0, 0.086);
+}
+h3{
+    text-align: center;
+}
+img{
+    width: 350px;
+    height: auto;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+.dis,
+.menu{
+    display: flex;
+    justify-content: center;
+  }
+.menu li{
+    text-align: left;
+  }
+  button{
+    background-color: rgba(255, 145, 0, 0.086);
+  }
